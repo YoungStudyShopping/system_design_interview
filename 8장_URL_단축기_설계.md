@@ -56,7 +56,7 @@
 - 단축 URL (tynyurl) 방문
   - REQ : `GET https://tinyurl.com/qt5opu`
   - RES 
-    ```http
+    ```
     HTTP/1.1 301 Permanently Moved
     Location: https://www.amazon.com/dp/B01... (원래 URL)
     ```
@@ -76,7 +76,7 @@
 - 해시 함수
   - 단축 URL 생성을 위한 해시 함수 fx 필요
     - `f(원본 URL) = hashValue`
-    - 단축 URL : https://tinyurl.com/**{hashValue}**
+    - 단축 URL : https://tinyurl.com/ **{hashValue}**
 - 요구 사항
   - input (긴 URL) 이 다른 값이면 output (해시 값) 도 달라야한다
   - 계산된 output (해시 값)은 원래 input (긴 URL) 로 복원될 수 있어야 한다.
@@ -136,7 +136,7 @@
 - base-62 변환 방법을 이용한 URL 단축기 순서도 예제 (p.136)
 - ID 생성기 : 단축 URL 을 만들기 위해 사용할 ID 생성
 	- ID는 전역적 유일성 (globally unique) 을 보장하는 10진수
-	- 고도 분산 환경에서 유일성을 보장하는 생성기를 만드는 건 어려운 일 => **[7장 참고](./7장_분산 시스템을 위한 유일 ID 생성기 설계.md)**
+	- 고도 분산 환경에서 유일성을 보장하는 생성기를 만드는 건 어려운 일 => **[7장 참고](./7장_분산%20시스템을%20위한%20유일%20ID%20생성기%20설계.md)**
 
 #### URL 리디렉션 상세 설계
 
