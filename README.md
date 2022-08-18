@@ -1,6 +1,6 @@
 # system_design_interview
 
-![KakaoTalk_Photo_2022-08-18-21-04-52](https://user-images.githubusercontent.com/20595690/185390712-7c7c2797-0990-42b6-a24e-799bc05186f5.jpeg)
+![세원님이 그려주신 ](https://user-images.githubusercontent.com/20595690/185390712-7c7c2797-0990-42b6-a24e-799bc05186f5.jpeg)
 
 <img src="http://image.yes24.com/goods/102819435/XL" height=400>
 
