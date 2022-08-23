@@ -1,7 +1,5 @@
 # system_design_interview
 
-![세원님이 그려주신 ](https://user-images.githubusercontent.com/20595690/185390712-7c7c2797-0990-42b6-a24e-799bc05186f5.jpeg)
-
 <img src="http://image.yes24.com/goods/102819435/XL" height=400>
 
 [가상 면접 사례로 배우는 대규모 시스템 설계 기초](http://www.yes24.com/Product/Goods/102819435)
